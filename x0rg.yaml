@@ -1,0 +1,25 @@
+talks:
+  - title: "Go at Zalando (Berlin Go meetup, March 2016)"
+  - title: "Go Study Group (Women who Go, June 2016)"
+  - title: "Fallacies of distributed computing with Kubernetes on AWS (AWS User Group Hamburg, October 2017)"
+    slides: "https://www.slideshare.net/RaffaeleDiFazio/fallacies-of-distributed-computing-with-kubernetes-on-aws"
+  - title: Mastering Kubernetes on AWS (AWS re:Invent, November 2017)
+    video: "https://www.youtube.com/watch?v=w34txLmpEuM"
+  - title: "Kubernetes on AWS: practices and opinions (KubeCon US, December 2017)"
+    video: "https://www.youtube.com/watch?v=gegaGA7Ek9E"
+  - title: "Deploying containers to AWS in 2018: a re:Invent recap (Berlin AWS User Group, January 2018)"
+  - title: "Introduction to Kubernetes (Nardoz Berlin, June 2018)"
+    slides: "https://www.slideshare.net/RaffaeleDiFazio/introduction-to-kubernetes-103576834"
+  - title: "Two years of Kubernetes on AWS (Berlin AWS User Group, October 2018)"
+    slides: "https://speakerdeck.com/x0rg/two-years-of-kubernetes-on-aws"
+interests:
+  - "Computers in a very broad meaning. There is really a lot I like doing and learning."
+  - "Cloud Native technologies. I'm a Kubernetes contributor even though I don't really like some parts of it."
+  - "Code and delivery quality, which means CI/CD and a lot more."
+  - "Programming languages: Go (my main focus right now), Java (which I am forgetting) and I wish to learn Rust."
+  - "Neapolitan Pizza, but really all pizza is great (as long as it doesn't have pineapple on top)."
+  - "Wine, mostly Italian, but I'm open to try new things."
+contacts:
+  - https://twitter.com/x0rg
+  - https://github.com/Raffo
+  - https://uppuiu.com
