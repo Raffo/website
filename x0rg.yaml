@@ -13,6 +13,7 @@ talks:
   - title: "Two years of Kubernetes on AWS (Berlin AWS User Group, October 2018)"
     slides: "https://speakerdeck.com/x0rg/two-years-of-kubernetes-on-aws"
   - title: "Let’s talk about Failures with Kubernetes! (inovex Meetup Hamburg, February 2019)"
+  - title: "Humble Brag Meetup (Berlin, June 2019)"
 interests:
   - "Computers in a very broad meaning. There is really a lot I like doing and learning."
   - "Cloud Native technologies. I'm a Kubernetes contributor even though I don't really like some parts of it."
